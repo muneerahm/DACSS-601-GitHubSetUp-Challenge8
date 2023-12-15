@@ -14,7 +14,10 @@ categories:
   - challenge_8
 ---
 
+Task 1 : What was the last movie you watched in a theater?
+Ans: The last movie I watched in a theater was "Animal".
 
-“What did you eat for today’s lunch?”
-
+Task 2: What did you eat for today’s lunch?
 Ans: I had a Subway sandwich for lunch.
+
+
