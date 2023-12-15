@@ -15,6 +15,6 @@ categories:
 ---
 
 
-what was the last movie you watched in a theater?
+“What did you eat for today’s lunch?”
 
-Ans: The last movie I watched in a theater was "Animal".
+Ans: I had a Subway sandwich for lunch.
